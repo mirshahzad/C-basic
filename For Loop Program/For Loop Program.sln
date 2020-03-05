@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For Loop Program", "For Loop Program\For Loop Program.vcxproj", "{CBE5C183-B4E0-484A-9BCB-8795CAC00482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE5C183-B4E0-484A-9BCB-8795CAC00482}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBE5C183-B4E0-484A-9BCB-8795CAC00482}.Debug|Win32.Build.0 = Debug|Win32
+		{CBE5C183-B4E0-484A-9BCB-8795CAC00482}.Release|Win32.ActiveCfg = Release|Win32
+		{CBE5C183-B4E0-484A-9BCB-8795CAC00482}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
