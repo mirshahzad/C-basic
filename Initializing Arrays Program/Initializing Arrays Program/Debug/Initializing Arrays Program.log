@@ -1,0 +1,33 @@
+﻿Build started 4/25/2016 7:20:48 PM.
+     1>Project "c:\Users\Shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Initializing Arrays Program\Initializing Arrays Program.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Initializing Arrays Program.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Initializing Arrays Program.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Initializing Arrays Program.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Initializing Arrays Program.cpp"
+         Initializing Arrays Program.cpp
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Initializing Arrays Program.exe.embed.manifest.res" "Debug\Initializing Arrays Program_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Initializing Arrays Program.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.lib" /MACHINE:X86 "Debug\Initializing Arrays Program.exe.embed.manifest.res"
+         "Debug\Initializing Arrays Program.obj"
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Initializing Arrays Program.exe.embed.manifest" /manifest "Debug\Initializing Arrays Program.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Initializing Arrays Program.exe.embed.manifest.res" "Debug\Initializing Arrays Program_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Initializing Arrays Program.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.lib" /MACHINE:X86 "Debug\Initializing Arrays Program.exe.embed.manifest.res"
+         "Debug\Initializing Arrays Program.obj"
+         Debug\stdafx.obj
+         Initializing Arrays Program.vcxproj -> c:\users\shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Debug\Initializing Arrays Program.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Initializing Arrays Program.unsuccessfulbuild".
+         Touching "Debug\Initializing Arrays Program.lastbuildstate".
+     1>Done Building Project "c:\Users\Shahzad\documents\visual studio 2010\Projects\Initializing Arrays Program\Initializing Arrays Program\Initializing Arrays Program.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51
