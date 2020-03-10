@@ -1,0 +1,31 @@
+﻿Build started 4/25/2016 9:20:27 PM.
+     1>Project "C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Multidimensional Arrays Program\Multidimensional Arrays Program.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Multidimensional Arrays Program.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Multidimensional Arrays Program.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Multidimensional Arrays Program.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Multidimensional Arrays Program.cpp"
+         Multidimensional Arrays Program.cpp
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Multidimensional Arrays Program.exe.embed.manifest.res" "Debug\Multidimensional Arrays Program_manifest.rc" 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Multidimensional Arrays Program.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.lib" /MACHINE:X86 "Debug\Multidimensional Arrays Program.exe.embed.manifest.res"
+         "Debug\Multidimensional Arrays Program.obj"
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Multidimensional Arrays Program.exe.embed.manifest" /manifest "Debug\Multidimensional Arrays Program.exe.intermediate.manifest"
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Multidimensional Arrays Program.exe.embed.manifest.res" "Debug\Multidimensional Arrays Program_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Multidimensional Arrays Program.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.lib" /MACHINE:X86 "Debug\Multidimensional Arrays Program.exe.embed.manifest.res"
+         "Debug\Multidimensional Arrays Program.obj"
+         Debug\stdafx.obj
+         Multidimensional Arrays Program.vcxproj -> C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Debug\Multidimensional Arrays Program.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Multidimensional Arrays Program.unsuccessfulbuild".
+         Touching "Debug\Multidimensional Arrays Program.lastbuildstate".
+     1>Done Building Project "C:\Users\Shahzad\Documents\Visual Studio 2010\Projects\Multidimensional Arrays Program\Multidimensional Arrays Program\Multidimensional Arrays Program.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.37
